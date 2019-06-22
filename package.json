@@ -1,6 +1,6 @@
 {
   "name": "daniellindemann",
-  "version": "1.0.0-beta.1",
+  "version": "1.0.1",
   "description": "A personal card for Daniel Lindemann (@daniellindemann)",
   "main": "index.js",
   "bin": {
