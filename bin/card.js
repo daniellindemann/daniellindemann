@@ -21,7 +21,7 @@ const data = {
   'handle': chalk.cyan('daniellindemann'),
   'about': chalk.yellowBright(`I'm an enthusiastic node and .net developer interested in frontend and backend${eol}who uses the Microsoft Azure cloud platform to run his hot stuff. Also with${eol}a strange love to optimize, automate and containerize things :).`),
   'work': chalk.white('Cloud Solution Architect @ itacs GmbH'),
-  'interests': chalk.white(`Cloud-native & Serverless architectures${eol}             Container technologies${eol}             Infrastructure-as-code${eol}`),
+  'interests': chalk.white(`Cloud-native & Serverless architectures${eol}             Container technologies${eol}             DevOps - Dev by night, Ops by day${eol}`),
   'twitter': chalk.cyan('https://twitter.com/daniellindemann'),
   'github': chalk.cyan('https://github.com/daniellindemann'),
   'linkedin': chalk.cyan('https://linkedin.com/in/daniel-lindemann'),
