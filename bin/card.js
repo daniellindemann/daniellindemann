@@ -19,8 +19,8 @@ const eol = '\n';
 const data = {
   'name': chalk.white('Daniel Lindemann /'),
   'handle': chalk.cyan('daniellindemann'),
-  'about': chalk.yellowBright(`I'm an enthusiastic node and .net developer interested in frontend and backend${eol}who uses the Microsoft Azure cloud platform to run his hot stuff. Also with${eol}a strange love to optimize, automate and containerize things :).`),
-  'work': chalk.white('Cloud Solution Architect @ itacs GmbH'),
+  'about': chalk.yellowBright(`I'm an enthusiastic node and .net developer interested in frontend and backend${eol}who uses the Microsoft Azure cloud platform to run my hot stuff. Also with${eol}a strange love to optimize, automate and containerize things :).`),
+  'work': chalk.white('Software Developer and Consultant @ abtis GmbH'),
   'interests': chalk.white(`Cloud-native & Serverless architectures${eol}             Container technologies${eol}             DevOps - Dev by night, Ops by day${eol}`),
   'twitter': chalk.cyan('https://twitter.com/daniellindemann'),
   'github': chalk.cyan('https://github.com/daniellindemann'),
